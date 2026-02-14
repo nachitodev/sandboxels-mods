@@ -1,6 +1,5 @@
 # Sandboxels Mods
-
-This repository contains mods for Sandboxels.
+Welcome to my personal mod collection. Every mod in this repository has been fully coded by me. Some of these mods cannot be uploaded to the official Sandboxels platform due to content or policy limitations, while others are allowed and may be shared on supported platforms.
 
 ## Included Mods
 
